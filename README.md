@@ -1,4 +1,4 @@
-![image](https://github.com/Aravindsamy04/Thresholdingg/assets/113497037/7bc6d232-62cf-4316-936c-7d0d8696f5b6)# THRESHOLDING
+# THRESHOLDING
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -103,7 +103,8 @@ for i in range(0,9):
 
 
 ### Optimum Global Thesholding using Otsu's Method
-![image](https://github.com/Aravindsamy04/Thresholdingg/assets/113497037/f71a722f-ccf8-4a1d-b674-afd58d4a4fa2)
+![image](https://github.com/Aravindsamy04/Thresholdingg/assets/113497037/004d1d9b-a6ef-44e8-b746-54874d0ace04)
+
 
 
 
